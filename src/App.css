@@ -447,7 +447,7 @@ background-color: antiquewhite;
 @media only screen and (max-width: 1366px) {
   .nav-left li,
   .nav-right li {
-    margin: 0;
+    margin: 0 8px;
   }
   .sub-head-text{
      font-size: 5rem;
